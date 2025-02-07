@@ -26,7 +26,7 @@ que te permite ingresar los nombres de tus amigos y, con solo hacer clic en un b
 
 <h3>Prueba el Juego en Línea</h3>
 
-¡Puedes probar el juego de "Amigo Secreto" en línea haciendo clic aquí! (Este es un enlace ficticio, ya que aún no has publicado el proyecto).
+¡Puedes probar el juego de "Amigo Secreto" en línea haciendo clic aquí! https://jhonatan-monsalve.github.io/amigo-secreto/
 
 
 Tecnologías Utilizadas
